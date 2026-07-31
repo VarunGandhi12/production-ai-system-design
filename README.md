@@ -1,8 +1,10 @@
 # System-Design Case Study — A Production AI Service
 
 > A walkthrough of how I architected, deployed, and operate **ATSAlign**
-> ([atsalign.com](https://atsalign.com)) — a production AI service handling real
-> traffic on Google Cloud. This repository documents **system design and
+> ([atsalign.com](https://www.atsalign.com)) — an AI-powered ATS resume checker
+> and optimizer that tailors resumes to any job description — running as a
+> production AI service handling real traffic on Google Cloud. This repository
+> documents **system design and
 > engineering decisions**. Application source, AI prompts, and ranking logic are
 > proprietary and intentionally excluded.
 
